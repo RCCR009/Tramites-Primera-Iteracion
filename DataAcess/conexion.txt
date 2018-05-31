@@ -1,0 +1,4 @@
+#parametros para conexion con mysql
+#Wed Nov 22 12:41:33 CST 2017
+script=jdbc:sqlserver://DESKTOP-HRGQMLM;DatabaseName=TRAMITES_DB;integratedsecurity=true
+
